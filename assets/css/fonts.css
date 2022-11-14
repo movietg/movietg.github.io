@@ -1,0 +1,24 @@
+@font-face{
+    font-family: "Lato Regular";
+    src: url(../fonts/Lato/Lato-Regular.ttf) format("truetype");
+}
+
+@font-face{
+    font-family: "Lato Italic";
+    src: url(../fonts/Lato/Lato-Italic.ttf) format("truetype");
+}
+
+@font-face{
+    font-family: "Lato Bold";
+    src: url(../fonts/Lato/Lato-Bold.ttf) format("truetype");
+}
+
+.regular{
+    font-family: "Lato Regular";
+}
+.bold{
+    font-family: "Lato Bold";
+}
+.italic{
+    font-family: "Lato Italic";
+}
