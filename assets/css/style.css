@@ -356,3 +356,6 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
     font-size: 14px;
     line-height: 14px;
 }
+.social-l{
+    font-size: 25px;
+}
