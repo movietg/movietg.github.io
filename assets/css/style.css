@@ -2,7 +2,7 @@ html, body{
     background-color: #21273D;
     overflow-x: hidden;
 }
-.bg-nav-menu{
+.bg-nav-menu, #navbarSupportedContent{
     background-color: #1F2434 !important;
 }
 .title-logo{
